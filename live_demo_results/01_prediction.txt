@@ -1,0 +1,6 @@
+Predicted Class: Benign
+Class Probabilities:
+  Normal: 0.1717
+  Benign: 0.7022
+  Malignant: 0.1261
+Mask Coverage: 0.38%

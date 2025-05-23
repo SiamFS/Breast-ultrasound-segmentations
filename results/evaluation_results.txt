@@ -1,0 +1,35 @@
+EVALUATION RESULTS
+==================================================
+
+SEGMENTATION METRICS:
+Mean IoU: 0.5387
+Dice Coefficient: 0.6320
+Pixel Accuracy: 0.9600
+
+CLASSIFICATION METRICS:
+Accuracy: 0.7179
+Precision: 0.7475
+Recall: 0.7179
+F1 Score: 0.7069
+
+CLASS-WISE CLASSIFICATION METRICS:
+Normal:
+  Precision: 1.0000
+  Recall: 0.3846
+  F1 Score: 0.5556
+  Support: 13
+Benign:
+  Precision: 0.7115
+  Recall: 0.8409
+  F1 Score: 0.7708
+  Support: 44
+Malignant:
+  Precision: 0.6667
+  Recall: 0.6667
+  F1 Score: 0.6667
+  Support: 21
+
+CONFUSION MATRIX:
+[5 8 0]
+[ 0 37  7]
+[ 0  7 14]

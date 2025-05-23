@@ -1,0 +1,13 @@
+BREAST ULTRASOUND ANALYSIS RESULTS
+=================================
+
+File: 04.png
+Prediction: Malignant (Confidence: 0.5906)
+Mask Coverage: 16.34%
+Class Probabilities:
+  - Normal: 0.0215
+  - Benign: 0.3879
+  - Malignant: 0.5906
+
+--------------------------------------------------
+

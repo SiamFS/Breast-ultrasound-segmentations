@@ -1,0 +1,51 @@
+INITIAL DATASET
+Benign: 433 images
+Malignant: 209 images
+Normal: 129 images
+Total: 771 images
+
+PREPROCESSING STEPS
+Images without masks: 0
+Images with multiple masks: 17
+Duplicate images removed: 9
+Images resized to: 256x256
+
+DATA SPLIT (80/10/10)
+Training set:
+  Benign: 346 images
+  Malignant: 167 images
+  Normal: 103 images
+  Total: 616 images
+
+Validation set:
+  Benign: 43 images
+  Malignant: 21 images
+  Normal: 13 images
+  Total: 77 images
+
+Test set:
+  Benign: 44 images
+  Malignant: 21 images
+  Normal: 13 images
+  Total: 78 images
+
+
+DUPLICATE IMAGES:
+Kept: Dataset_BUSI_with_GT\benign\benign (47).png
+  Removed duplicate: Dataset_BUSI_with_GT\normal\normal (15).png
+Kept: Dataset_BUSI_with_GT\benign\benign (433).png
+  Removed duplicate: Dataset_BUSI_with_GT\malignant\malignant (145).png
+Kept: Dataset_BUSI_with_GT\benign\benign (275).png
+  Removed duplicate: Dataset_BUSI_with_GT\benign\benign (297).png
+Kept: Dataset_BUSI_with_GT\benign\benign (210).png
+  Removed duplicate: Dataset_BUSI_with_GT\benign\benign (298).png
+Kept: Dataset_BUSI_with_GT\benign\benign (211).png
+  Removed duplicate: Dataset_BUSI_with_GT\benign\benign (254).png
+Kept: Dataset_BUSI_with_GT\benign\benign (152).png
+  Removed duplicate: Dataset_BUSI_with_GT\benign\benign (18).png
+Kept: Dataset_BUSI_with_GT\normal\normal (121).png
+  Removed duplicate: Dataset_BUSI_with_GT\normal\normal (31).png
+Kept: Dataset_BUSI_with_GT\normal\normal (21).png
+  Removed duplicate: Dataset_BUSI_with_GT\normal\normal (63).png
+Kept: Dataset_BUSI_with_GT\normal\normal (97).png
+  Removed duplicate: Dataset_BUSI_with_GT\normal\normal (98).png
