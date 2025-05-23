@@ -42,7 +42,7 @@ Due to GitHub file size limitations, the dataset and trained model are not inclu
 
 ### Download Links
 - **Dataset**: Download the BUSI Dataset from [Original Source](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset) or [Kaggle Link](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
-- **Pre-trained Model**: [best_model.pth(https://drive.google.com/file/d/1qBA3834GsQeYD6fc1ZL-u0XotzZnOEWQ/view?usp=sharing)]
+- **Pre-trained Model**: [best_model.pth](https://drive.google.com/file/d/1qBA3834GsQeYD6fc1ZL-u0XotzZnOEWQ/view?usp=sharing)
 
 ### File Placement
 - Place the dataset in the root directory as `Dataset_BUSI_with_GT/`
